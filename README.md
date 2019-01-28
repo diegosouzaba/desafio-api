@@ -24,3 +24,17 @@ O resultado do processamento deverá ser igual á:
 Pontos adicionais:
 
 Usar JavaSE 8. Usar banco (em memória, ex.: H2) para armazenar o resultado de cada requisição; Criar projeto em Angular 5 ou 6 para invocar a API e mostrar o resultado na tela.
+
+Para este projeto foram utilizados as seguites tecnologias:
+
+Spring Boot.
+JavaSE 8.
+banco H2.
+maven.
+
+para executar:
+Utilizando o Eclipse use a opção Import do menu, selecione Maven->Existing Maven Project e clique em Next. Clique no botão Browse e localize a pasta, logo apos execute o comando mvc clean install dentro do diretório do projeto Para baixar as dependências.
+
+Para Testar:
+Utilize o postman para fazer o request.
+
